@@ -1,2 +1,2 @@
 # X-RetroMAE
-Code Roberta/XLM-Roberta for [RetroMAE: Pre-Training Retrieval-oriented Language Models Via Masked Auto-Encoder](https://arxiv.org/abs/2205.12035)
+This project tries to modify [RetroMAE](https://github.com/staoxiao/RetroMAE) to be compatible with RoBERTa and XLM-RoBERTa, hopefully from then apply RetroMAE to languages other than English.
