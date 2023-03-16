@@ -19,7 +19,7 @@ pip install -r requirements.txt
 ```
 
 ## Run pretraining
-First make sure that you have preprocessed your own data first by running the preprocessing.py in examples/pretrain, the run:
+First make sure that you have preprocessed your own data first by running the preprocessing.py in examples/pretrain, then run:
 ```
 sh src/run_pretrain.sh
 ```
